@@ -89,7 +89,7 @@ Integrate whatup number in google search, company website
 
  Whatup my business profile
 
- #### 9. Email Marketing:
+#### 9. Email Marketing:
 
 Use Email tool for Campeign
 
