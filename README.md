@@ -122,6 +122,24 @@ Google analytics
 Google Tag manager
 
 
+#### Google Analytics do?
+
+who are you users?
+
+how do web visitor behave compared to purchasers?
+
+what brought them to the site?
+
+where do they live?
+
+how does this compare year on year?
+
+what impact did the investment into our content startegy have?
+
+why have saled dropped off?
+
+#### Why Business online?
+
 Do business anywhere
 
 Do business anytime - passive income
