@@ -1,6 +1,7 @@
 ## Top 10 Online Real Estate Marketing Startegies
 
 99 acres
+
 magic bricks
 
 #### 1. Google my Business listing page
